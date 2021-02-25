@@ -1,2 +1,2 @@
 # onewire
-Bare bones implementation of OneWire protocol for constrained MCUs
+Bare metal implementation of OneWire protocol for constrained MCUs
